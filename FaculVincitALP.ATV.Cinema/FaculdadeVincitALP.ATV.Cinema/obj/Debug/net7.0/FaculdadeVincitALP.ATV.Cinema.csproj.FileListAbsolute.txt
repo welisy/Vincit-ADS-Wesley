@@ -1,0 +1,15 @@
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\bin\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.exe
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\bin\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.deps.json
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\bin\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.runtimeconfig.json
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\bin\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\bin\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.pdb
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.csproj.AssemblyReference.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.AssemblyInfoInputs.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.AssemblyInfo.cs
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\refint\FaculdadeVincitALP.ATV.Cinema.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.pdb
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\FaculdadeVincitALP.ATV.Cinema.genruntimeconfig.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.ATV.Cinema\FaculdadeVincitALP.ATV.Cinema\obj\Debug\net7.0\ref\FaculdadeVincitALP.ATV.Cinema.dll

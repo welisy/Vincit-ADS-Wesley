@@ -1,0 +1,15 @@
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\bin\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.exe
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\bin\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.deps.json
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\bin\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.runtimeconfig.json
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\bin\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\bin\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.pdb
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.csproj.AssemblyReference.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.AssemblyInfoInputs.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.AssemblyInfo.cs
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.csproj.CoreCompileInputs.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\refint\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.pdb
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.genruntimeconfig.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.Atv.LacoDeRepeticao\FaculdadeVincitALP.Atv.LacoDeRepeticao.App\obj\Debug\net7.0\ref\FaculdadeVincitALP.Atv.LacoDeRepeticao.App.dll

@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/FaculdadeVincitALP.Atv.LacoDeRepeticao.App/FaculdadeVincitALP.Atv.LacoDeRepeticao.App.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "publish",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "publish",
+        "${workspaceFolder}/FaculdadeVincitALP.Atv.LacoDeRepeticao.App/FaculdadeVincitALP.Atv.LacoDeRepeticao.App.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "watch",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "watch",
+        "run",
+        "--project",
+        "${workspaceFolder}/FaculdadeVincitALP.Atv.LacoDeRepeticao.App/FaculdadeVincitALP.Atv.LacoDeRepeticao.App.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}

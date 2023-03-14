@@ -1,0 +1,15 @@
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\bin\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.exe
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\bin\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.deps.json
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\bin\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.runtimeconfig.json
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\bin\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\bin\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.pdb
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.csproj.AssemblyReference.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.AssemblyInfoInputs.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.AssemblyInfo.cs
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.csproj.CoreCompileInputs.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\refint\FaculdadeVincitALP.2ListaExercícios.App.dll
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.pdb
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\FaculdadeVincitALP.2ListaExercícios.App.genruntimeconfig.cache
+C:\Users\NOTE\Desktop\Development\ADS - Facul\FaculdadeVincitALP.2ListaExercícios\FaculdadeVincitALP.2ListaExercícios.App\obj\Debug\net7.0\ref\FaculdadeVincitALP.2ListaExercícios.App.dll
